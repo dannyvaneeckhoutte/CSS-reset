@@ -1,5 +1,3 @@
-![image caption](image.png)
-
 # reset.css
 
 A CSS reset I made for personal use.
